@@ -9,7 +9,7 @@ I am a front-end developer who loves react!
 * 🌍  I'm based in Karachi
 * 🖥️  See my portfolio at [MyPortfolio](http://github.com/farazahmed12)
 * ✉️  You can contact me at [masterdot707@gmail.com](mailto:masterdot707@gmail.com)
-* 🧠  I'm learning Backend, Django
+* 🧠  I'm learning Backend, Django and Node.js
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
